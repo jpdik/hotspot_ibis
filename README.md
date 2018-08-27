@@ -20,41 +20,55 @@ Aproximar a população e o Ibis Budget  através da implantação de hotspots f
 ## Slides
 
 <p align="center">
-  <img src="Files/slide/1.svg?raw=true"/>
+  <img src="Files/slide/1.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/2.svg?raw=true"/>
+  <img src="Files/slide/2.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/3.svg?raw=true"/>
+  <img src="Files/slide/3.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/4.svg?raw=true"/>
+  <img src="Files/slide/4.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/5.svg?raw=true"/>
+  <img src="Files/slide/5.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/6.svg?raw=true"/>
+  <img src="Files/slide/6.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/7.svg?raw=true"/>
+  <img src="Files/slide/7.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/8.svg?raw=true"/>
+  <img src="Files/slide/8.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/9.svg?raw=true"/>
+  <img src="Files/slide/9.svg"/>
 </p>
 
 <p align="center">
-  <img src="Files/slide/10.svg?raw=true"/>
+  <img src="Files/slide/10.svg"/>
+</p>
+
+## Protótipo
+
+<p align="center">
+  <img src="Files/img/tela1.png?raw=true"/>
+</p>
+
+<p align="center">
+  <img src="Files/img/tela2.png?raw=true"/>
+</p>
+
+<p align="center">
+  <img src="Files/img/tela3.png?raw=true"/>
 </p>
